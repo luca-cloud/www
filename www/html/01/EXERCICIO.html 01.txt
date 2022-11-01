@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<headc
+<title> Como funciona uma pagina web?</title>
+</head>
+<body>
+
+<h1> como funciona uma pagina web ?</h1>
+<H2>HTML</h2>
+<P>Html- ESTRUTURA ESQUELETICA</p>
+<h2>CSS</h2>
+<p>CSS- ESTRUTURA DE ESTILOS</p>
+<h2>JAVASCRIPT</H2>
+<p>JAVASCRIPT- ESTRUTURA DE FUNÇOES</P>
+</body>
+</html>
+
+
+Como funciona uma pagina web?
+
+HTML
+Html- ESTRUTURA ESQUELETICA
+
+CSS
+CSS- ESTRUTURA DE ESTILOS
+
+JAVASCRIPT
+JAVASCRIPT- ESTRUTURA DE FUNÇOES

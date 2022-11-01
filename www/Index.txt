@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+        <meta charset="utf-8">
+        <title>Meu 1º Portifólio</title>
+    </head>
+    <body>
+        <h1>Lucas Ramos Da Silva</h1>
+        <h2>Subtitulo</h2>
+        <p>Texto descritivo sobre vocês</p>
+        <h2>Hard Skills</h2>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+        </ul>
+        <h2>Soft Skills</h2>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+            <li></li>
+        </ul>
+        <img class="image10" src="https://lh5.googleusercontent.com/orhhXLnQ2erJFmPEQwSUfw4zXkU6JAbzmuW61VMBs_4-IVXzv8vP5OLNusn8wVTSMdrgI5DiYI-OaMg=w1919-h961" alt="Imagem que representa as Soft Skills" style="width:100%px;height:auto">
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exercicio 02</title>
+</head>
+<body>
+
+<h2>Como funciona a estrutura de uma pagina?</h2>
+<br />
+<h3>Conceito básico de HTML</h3>
+
+<p>  HTML não é uma linguagem de programação; é uma linguagem de marcação, usada para definir a estrutura do seu conteúdo. HTML consiste de uma série de elementos, que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira. As tags anexas podem transformar uma palavra ou imagem num hiperlink, pode colocar palavras em itálico, pode aumentar ou diminuir a fonte e assim por diante.</p>
+<br />
+<img src=https://th.bing.com/th/id/OIP.cS2Fo4aasLnRA7x99qaZigHaD4?pid=ImgDet&rs=1 width= 50%>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
+Acesse o link para saber mais a respeito da estrutura de HTML</a>
+
+
+
+
+</body>
+</html>

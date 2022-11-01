@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Linguagem de computação</h1>
+<p>Linguagem de marcação</p>
+<p>Linguagem de estilos</p>
+<p>Linguagem de programação</p>
+<p>Linguagem de Script</p>
+<h2>LInguagem</h2>
+</body>
+</html>
